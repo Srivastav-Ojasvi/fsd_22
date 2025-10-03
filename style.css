@@ -1,9 +1,8 @@
 *{
-    background-color: brown;
+    box-sizing: border-box;
     padding: 0px;
     margin: 0px;
-    height: 200px;
-    width: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .box{
     background-color: aqua;
@@ -11,4 +10,21 @@
     margin: 10px;
     height: 200px;
     width: 200px;
+}
+li{
+    display: inline-block;
+}
+body{
+    background-color: aliceblue;
+}
+ul{
+    padding: 10px;
+    background-color: blueviolet;
+}
+a{
+    text-decoration: none;
+    font-size: 1.25rem;
+    color: whitesmoke;
+    font-weight: 800;
+    padding: 10px;
 }
