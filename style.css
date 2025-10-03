@@ -1,0 +1,14 @@
+*{
+    background-color: brown;
+    padding: 0px;
+    margin: 0px;
+    height: 200px;
+    width: 200px;
+}
+.box{
+    background-color: aqua;
+    padding: 0px;
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+}
